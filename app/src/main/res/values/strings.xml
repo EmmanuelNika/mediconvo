@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MediConvo</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
 </resources>
