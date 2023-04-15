@@ -9,4 +9,8 @@
     <string name="submit">Submit</string>
     <string name="login">Login</string>
     <string name="already_have_account">Already have Account? Login</string>
+    <string name="make_inquiry">Make an Enquiry</string>
+    <string name="report_condition">Report Condition</string>
+    <string name="search_health_care">Access Health Care</string>
+    <string name="access_resources">Access Medical Resources</string>
 </resources>

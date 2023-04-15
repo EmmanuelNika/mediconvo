@@ -41,7 +41,7 @@ public class SignUpActivity extends AppCompatActivity {
         cPasswordEdit = findViewById(R.id.cPassword);
 //        checkAndRequestForPermission();
 //        saveLocalData = new SaveLocalData(SignUpActivity.this);
-//        showLoader = new ShowLoader(SignUpActivity.this);
+
 
     }
 
