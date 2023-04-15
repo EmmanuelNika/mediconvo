@@ -63,7 +63,7 @@ public class LoginActivity extends AppCompatActivity {
 
         String[] columns = {"_id"};
 
-        String selection = "username=? AND password=?";
+        String selection = "phone=? AND password=?";
         String[] selectionArgs = {username, password};
 
         Cursor cursor = null;

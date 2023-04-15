@@ -8,4 +8,5 @@
     <string name="confirm_password">Confirm Password</string>
     <string name="submit">Submit</string>
     <string name="login">Login</string>
+    <string name="already_have_account">Already have Account? Login</string>
 </resources>

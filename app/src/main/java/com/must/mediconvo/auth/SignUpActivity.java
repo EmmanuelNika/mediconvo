@@ -93,4 +93,8 @@ public class SignUpActivity extends AppCompatActivity {
         super.onDestroy();
         DB.close();
     }
+
+    public void proceedToLogin(View view) {
+        startActivity(new Intent(SignUpActivity.this, LoginActivity.class));
+    }
 }
